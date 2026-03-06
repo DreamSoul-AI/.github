@@ -22,6 +22,3 @@ Seamlessly integrates GPU, CPU, memory, and disk into a unified compute fabric, 
 🧠 **AI-Native Operating System**  
 Reimagining the foundation of the intelligent world, an OS designed for AI from the ground up.
 
-## Contact
-
-Connect with us on [Slack](https://join.slack.com/t/dreamsoul-ai/shared_invite/zt-1uokr3rlg-t1uHUFzXroCaSbC4XKeiMQ)
