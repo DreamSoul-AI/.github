@@ -1,24 +1,58 @@
 <div align="center">
- <img src="/profile/asset/logo.png" width="400px">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./asset/logo.png">
+    <img src="./asset/logo.svg" width="300" alt="DreamSoul 灵机一梦">
+  </picture>
+
+  <p><strong>English</strong> | <a href="./README_zh.md">中文</a></p>
+
+  <h1>Artificial Intelligence Operating System (AIOS) for Personal Agents</h1>
+
+  <p>
+    DreamSoul is building a cost-effective AIOS that brings agents, models,
+    tools, applications, and devices into one coherent environment.
+  </p>
 </div>
 
-# Welcome to DreamSoul 🌌
+AIOS provides the foundation for running and connecting AI capabilities.
+Agents are persistent intelligent entities that people can create, shape, and
+work with over time. Together, they form one personal AI environment that can
+keep working for the user and grow with them over time.
 
-We are building the next-generation AI operating system designed to unlock the full potential of computing hardware and bring large-scale intelligence to every device.
+## What we are building
 
-## Vision
+- Cost-effective AI infrastructure for personal computers
+- Persistent personal agents that can work continuously with models, tools,
+  applications, and devices
+- An efficient environment that makes better use of the computing power people
+  already own and helps reduce recurring cloud costs
 
-> **Building the Microsoft of the AI Era**  
-> From cloud to edge, from research to reality, we make AI accessible, efficient, and universal.
+## Selected public work
 
-## Highlights
+### Development
 
-🚀 **Breakthrough in Memory Offloading**  
-The world’s first multi-tier GPU offloading system supporting both training and inference, enabling billion-parameter models to run efficiently on consumer hardware.
+- [filescan](https://github.com/DreamSoul-AI/filescan): A lightweight Python
+  tool for scanning filesystem structures and Python ASTs
 
-💡 **System-Level Optimization for AI**  
-Seamlessly integrates GPU, CPU, memory, and disk into a unified compute fabric, maximizing throughput and minimizing cost.
+### Research
 
-🧠 **AI-Native Operating System**  
-Reimagining the foundation of the intelligent world, an OS designed for AI from the ground up.
+- [OBCache](https://github.com/DreamSoul-AI/OBCache): Research for efficient
+  long-context language-model inference
 
+### Resources
+
+- [Tutorial](https://github.com/DreamSoul-AI/Tutorial): Practical tutorials and
+  learning resources
+- [package](https://github.com/DreamSoul-AI/package): A reusable Python package
+  template
+
+## About DreamSoul
+
+Our mission is to make advanced AI accessible and affordable to everyone. We
+want people to get more value from the computing power they already own, use AI
+efficiently on everyday hardware, and reduce the cost of long-term AI use.
+
+Our core product is under active development. This organization shares selected
+development projects, research, and resources from our work. Project status,
+contribution guidelines, support scope, and licensing are documented separately
+in each repository.
