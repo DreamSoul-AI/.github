@@ -6,18 +6,11 @@
 
   <p><strong>English</strong> | <a href="./README_zh.md">中文</a></p>
 
-  <h1>Artificial Intelligence Operating System (AIOS) for Personal Agents</h1>
-
   <p>
-    DreamSoul is building a cost-effective AIOS that brings agents, models,
-    tools, applications, and devices into one coherent environment.
+    <strong>A cost-effective Artificial Intelligence Operating System (AIOS) for Personal Agents</strong><br>
+    Bringing agents, models, tools, applications, and devices into one coherent environment
   </p>
 </div>
-
-AIOS provides the foundation for running and connecting AI capabilities.
-Agents are persistent intelligent entities that people can create, shape, and
-work with over time. Together, they form one personal AI environment that can
-keep working for the user and grow with them over time.
 
 ## What we are building
 
