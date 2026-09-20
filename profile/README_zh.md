@@ -23,7 +23,7 @@
 
 ### 研究
 
-- [OBCache](https://github.com/DreamSoul-AI/OBCache)：[ICML 2026] 通过
+- [OBCache](https://github.com/DreamSoul-AI/OBCache)：**[ICML 2026]** 通过
   Optimal Brain KV Cache Pruning 实现高效的长上下文 LLM 推理
 
 ### 开发
