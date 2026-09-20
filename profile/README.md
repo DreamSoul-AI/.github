@@ -23,12 +23,22 @@
 
 ## Featured public work
 
-| Area | Project | Description |
-| --- | --- | --- |
-| Research | [OBCache](https://github.com/DreamSoul-AI/OBCache) | **ICML 2026** — Optimal Brain KV Cache Pruning for efficient long-context LLM inference |
-| Development | [filescan](https://github.com/DreamSoul-AI/filescan) | A lightweight Python tool for scanning filesystem structures and Python ASTs |
-| Agent resources | [knowledge](https://github.com/DreamSoul-AI/knowledge) | Reusable agent skills with English and Chinese guides |
-| Developer resources | [package](https://github.com/DreamSoul-AI/package) | A reusable Python package template |
+### Research
+
+- [OBCache](https://github.com/DreamSoul-AI/OBCache): **ICML 2026** — Optimal
+  Brain KV Cache Pruning for efficient long-context LLM inference
+
+### Development
+
+- [filescan](https://github.com/DreamSoul-AI/filescan): A lightweight Python
+  tool for scanning filesystem structures and Python ASTs
+
+### Resources
+
+- [knowledge](https://github.com/DreamSoul-AI/knowledge): Reusable agent skills
+  with English and Chinese guides
+- [package](https://github.com/DreamSoul-AI/package): A reusable Python package
+  template
 
 ## About DreamSoul
 

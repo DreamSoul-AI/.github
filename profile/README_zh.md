@@ -21,12 +21,21 @@
 
 ## 精选公开项目
 
-| 方向 | 项目 | 简介 |
-| --- | --- | --- |
-| 研究 | [OBCache](https://github.com/DreamSoul-AI/OBCache) | **ICML 2026**——通过 Optimal Brain KV Cache Pruning 实现高效的长上下文 LLM 推理 |
-| 开发 | [filescan](https://github.com/DreamSoul-AI/filescan) | 用于扫描文件系统结构和 Python AST 的轻量工具 |
-| 智能体资源 | [knowledge](https://github.com/DreamSoul-AI/knowledge) | 包含中英文指南的可复用 Agent Skills |
-| 开发者资源 | [package](https://github.com/DreamSoul-AI/package) | 可复用的 Python 软件包模板 |
+### 研究
+
+- [OBCache](https://github.com/DreamSoul-AI/OBCache)：**ICML 2026**——通过
+  Optimal Brain KV Cache Pruning 实现高效的长上下文 LLM 推理
+
+### 开发
+
+- [filescan](https://github.com/DreamSoul-AI/filescan)：用于扫描文件系统结构和
+  Python AST 的轻量工具
+
+### 资源
+
+- [knowledge](https://github.com/DreamSoul-AI/knowledge)：包含中英文指南的可复用
+  Agent Skills
+- [package](https://github.com/DreamSoul-AI/package)：可复用的 Python 软件包模板
 
 ## 关于灵机一梦
 
