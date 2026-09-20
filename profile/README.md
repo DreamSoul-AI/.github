@@ -25,7 +25,7 @@
 
 ### Research
 
-- [OBCache](https://github.com/DreamSoul-AI/OBCache): **ICML 2026** — Optimal
+- [OBCache](https://github.com/DreamSoul-AI/OBCache): [ICML 2026] Optimal
   Brain KV Cache Pruning for efficient long-context LLM inference
 
 ### Development
