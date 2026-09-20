@@ -4,48 +4,38 @@
     <img src="./asset/logo.svg" width="300" alt="DreamSoul 灵机一梦">
   </picture>
 
-  <p><strong>English</strong> | <a href="./README_zh.md">中文</a></p>
+  <p><strong>English</strong>&nbsp; | &nbsp;<a href="https://github.com/DreamSoul-AI/.github/blob/main/profile/README_zh.md"><strong>简体中文</strong></a></p>
 
   <p>
-    <strong>A cost-effective Artificial Intelligence Operating System (AIOS) for Personal Agents</strong><br>
-    Bringing agents, models, tools, applications, and devices into one coherent environment
+    <strong>A cost-effective Artificial Intelligence Operating System (AIOS) for personal agents</strong><br>
+    One coherent environment for agents, models, tools, applications, and devices
   </p>
 </div>
 
-## What we are building
+## Our focus
 
-- Cost-effective AI infrastructure for personal computers
-- Persistent personal agents that can work continuously with models, tools,
+- Build efficient AI infrastructure for personal computers and everyday hardware
+- Create persistent personal agents that work continuously across models, tools,
   applications, and devices
-- An efficient environment that makes better use of the computing power people
-  already own and helps reduce recurring cloud costs
+- Make better use of locally available computing power while reducing recurring
+  cloud costs
+- Turn research advances into practical, accessible systems
 
-## Selected public work
+## Featured public work
 
-### Development
-
-- [filescan](https://github.com/DreamSoul-AI/filescan): A lightweight Python
-  tool for scanning filesystem structures and Python ASTs
-
-### Research
-
-- [OBCache](https://github.com/DreamSoul-AI/OBCache): Research for efficient
-  long-context language-model inference
-
-### Resources
-
-- [Tutorial](https://github.com/DreamSoul-AI/Tutorial): Practical tutorials and
-  learning resources
-- [package](https://github.com/DreamSoul-AI/package): A reusable Python package
-  template
+| Area | Project | Description |
+| --- | --- | --- |
+| Research | [OBCache](https://github.com/DreamSoul-AI/OBCache) | **ICML 2026** — Optimal Brain KV Cache Pruning for efficient long-context LLM inference |
+| Development | [filescan](https://github.com/DreamSoul-AI/filescan) | A lightweight Python tool for scanning filesystem structures and Python ASTs |
+| Agent resources | [knowledge](https://github.com/DreamSoul-AI/knowledge) | Reusable agent skills with English and Chinese guides |
+| Developer resources | [package](https://github.com/DreamSoul-AI/package) | A reusable Python package template |
 
 ## About DreamSoul
 
-Our mission is to make advanced AI accessible and affordable to everyone. We
-want people to get more value from the computing power they already own, use AI
-efficiently on everyday hardware, and reduce the cost of long-term AI use.
+DreamSoul is working to make advanced AI more accessible and affordable. We
+want people to get more value from the computing power they already own, run AI
+efficiently on everyday hardware, and lower the long-term cost of using AI.
 
 Our core product is under active development. This organization shares selected
-development projects, research, and resources from our work. Project status,
-contribution guidelines, support scope, and licensing are documented separately
-in each repository.
+research, development projects, and reusable resources. Each repository
+documents its own status, contribution process, support scope, and license.
